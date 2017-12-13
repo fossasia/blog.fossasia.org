@@ -1,4 +1,0 @@
-<?php
-
-function imagecache_ui_install() {
-}

@@ -1,6 +1,0 @@
-name = Content translation
-description = Allows content to be translated into different languages.
-dependencies[] = locale
-package = Core - optional
-version = VERSION
-core = 6.x

@@ -1,5 +1,0 @@
-name = Database logging
-description = Logs and records system events to the database.
-package = Core - optional
-version = VERSION
-core = 6.x
